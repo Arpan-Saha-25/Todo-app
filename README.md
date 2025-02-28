@@ -1,3 +1,2 @@
 ## Todo App : TodoIt
-
-Using express.js and tailwind css
+TodoList App using React, Tailwind & React Icons
